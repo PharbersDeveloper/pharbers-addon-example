@@ -1,0 +1,1 @@
+export { default } from 'pharbers-addon-example/modules/components/hello-word/component';
